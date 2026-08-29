@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1788020091862,
+  "timestamp": 1788020097308,
   "appVersion": "6.9.56 (2026.08.29)",
   "tables": [
     "characters",
@@ -127,7 +127,8 @@
     "couplesData": true,
     "quickReplies": true,
     "goingOutState": true,
-    "goingOutAreas": true
+    "goingOutAreas": true,
+    "mapRasterCache": true
   },
   "inProgress": true
 }
