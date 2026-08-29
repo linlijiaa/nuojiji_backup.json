@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1788020110162,
+  "timestamp": 1788020117008,
   "appVersion": "6.9.56 (2026.08.29)",
   "tables": [
     "characters",
@@ -130,7 +130,8 @@
     "goingOutAreas": true,
     "mapRasterCache": true,
     "customGames": true,
-    "customGameSaves": true
+    "customGameSaves": true,
+    "customWidgetTemplates": true
   },
   "inProgress": true
 }
